@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="demo.png" alt="Your Name's Avatar" width="150" height="150" />
+  <img src="res/Screenshot 2023-09-08 at 1.06.24 PM.png" alt="Your Name's Avatar" width="80" height="50" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Aniruddha Hadagali</h1>
@@ -20,20 +20,20 @@
 
 <p align="center">
   <em>💼 I'm currently a Project Trainee  at KLE Tech/CEVI(Centre of Excellence in Visual Intelligence)</em><br>
-  💡 [A brief statement about what inspires you]<br>
-  🌱 [What you're currently learning or exploring]<br>
-  👯 [Looking for interesting collaborations and projects]<br>
-  💬 [Ask me about your areas of expertise]<br>
-  📫 [Your Email Address]<br>
+  💡 My domains are, AI / Ml and Development. Also I'm a competetive coder. I have 1600+ rating in Codechef.<br>
+  🌱 Im currently exploring on 3D Point Cloud Deep Learning, i,e. Refinement of Point cloud. <br>
+  👯 If you are intrested in AI/ML projects you can consider me for collaborating. <br>
+  💬 Also If I'm a Anime lover (Weeb). So you can also have a discussion with me about your favourite Anime. Also your area of Interest in AI/ML domain.<br>
+  📫 You can contact me @ anihadagali.official@gmail.com<br>
 </p>
 
 <!-- Portfolio -->
-<h2 align="center">Portfolio Highlights</h2>
+<h2 align="center">Project Highlights</h2>
 
 <p align="center">
   <!-- Project 1 -->
   <a href="Link to Project 1">
-    <img src="project1-thumbnail.png" alt="Project 1" width="250" height="150" />
+    <img src="project1-thumbnail.png" alt="AI Annotation Application" width="250" height="150" />
   </a>
   <!-- Project 2 -->
   <a href="Link to Project 2">
