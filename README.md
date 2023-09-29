@@ -46,12 +46,33 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <!-- List your skills or technologies as badges -->
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript ES6" />
-  <img src="https://img.shields.io/badge/React-16.8-blue" alt="React 16.8" />
-  <img src="https://img.shields.io/badge/Node.js-14.x-green" alt="Node.js 14.x" />
-  <!-- Add more skills as badges -->
+  <!-- Badges for C/C++, Python, and Java -->
+  <img src="https://img.shields.io/badge/C/C++-blue" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-green" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
 </p>
+
+
+<!-- Technologies -->
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+  <!-- Technology icons with links or tooltips -->
+  <a href="#" title="HTML5">
+    <img src="html5-icon.png" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="#" title="CSS3">
+    <img src="css3-icon.png" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="#" title="JavaScript">
+    <img src="javascript-icon.png" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="#" title="React">
+    <img src="react-icon.png" alt="React" width="40" height="40" />
+  </a>
+  <!-- Add more technology icons with links or tooltips as needed -->
+</p>
+
 
 <!-- Let's Connect -->
 <h2 align="center">Let's Connect</h2>
