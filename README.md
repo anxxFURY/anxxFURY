@@ -33,7 +33,7 @@
 <p align="center">
   <!-- Project 1 -->
   <a href="Link to Project 1">
-    <img src="project1-thumbnail.png" alt="AI Annotation Application" width="250" height="150" />
+    <img src="res/Screenshot 2023-09-14 at 10.37.49 PM.png" alt="AI Annotation Application" width="250" height="150" />
   </a>
   <!-- Project 2 -->
   <a href="Link to Project 2">
