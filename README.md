@@ -37,7 +37,7 @@
   </a>
   <!-- Project 2 -->
   <a href="Link to Project 2">
-    <img src="project2-thumbnail.png" alt="Project 2" width="250" height="150" />
+    <img src="res/Screenshot 2023-09-14 at 10.56.32 PM.png" alt="JavaFX Project" width="250" height="150" />
   </a>
   <!-- Add more projects as desired -->
 </p>
