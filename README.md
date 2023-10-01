@@ -85,14 +85,9 @@
     <img src="res/twitter-x-logo-42554.png" alt="Twitter" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/aniruddha-hadagali-851885218/">
-    <img src="linkedin-icon.png" alt="LinkedIn" width="40" height="40" />
+    <img src="res/8379992.jpg" alt="LinkedIn" width="40" height="40" />
   </a>
   <!-- Add more social media links as needed -->
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="your-cool-footer-image.png" alt="Footer Image" />
 </p>
 
 <p align="center">⭐️ Show some ❤️ by starring some of my repositories! ⭐️</p>
