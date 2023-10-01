@@ -60,17 +60,14 @@
 
 <p align="center">
   <!-- Technology icons with links or tooltips -->
-  <a href="#" title="HTML5">
-    <img src="html5-icon.png" alt="HTML5" width="40" height="40" />
+  <a href="#" title="Clion">
+    <img src="res/clion.svg" alt="Clion" width="40" height="40" />
   </a>
-  <a href="#" title="CSS3">
-    <img src="css3-icon.png" alt="CSS3" width="40" height="40" />
+  <a href="#" title="Pytorch">
+    <img src="res/pytorch.png" alt="CSS3" width="80" height="40" />
   </a>
   <a href="#" title="JavaScript">
-    <img src="javascript-icon.png" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="#" title="React">
-    <img src="react-icon.png" alt="React" width="40" height="40" />
+    <img src="res/mysql.png" alt="JavaScript" width="40" height="40" />
   </a>
   <!-- Add more technology icons with links or tooltips as needed -->
 </p>
