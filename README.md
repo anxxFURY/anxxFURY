@@ -82,7 +82,7 @@
 <p align="center">
   <!-- Add social media links or icons -->
   <a href="https://twitter.com/ani_hadagali">
-    <img src="twitter-icon.png" alt="Twitter" width="40" height="40" />
+    <img src="res/twitter-x-logo-42554.png" alt="Twitter" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/aniruddha-hadagali-851885218/">
     <img src="linkedin-icon.png" alt="LinkedIn" width="40" height="40" />
