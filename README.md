@@ -1,90 +1,18 @@
-<!-- Header -->
-<p align="center">
-  <img src="res/Screenshot 2023-09-08 at 1.06.24 PM.png" alt="Your Name's Avatar" width="80" height="50" />
-</p>
-
-<h1 align="center">👋 Hey there, I'm Aniruddha Hadagali</h1>
-
-<p align="center">
-  <!-- Add badges, for example, GitHub followers -->
-  <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social" alt="GitHub Followers" />
-  
-  <!-- Add more badges as desired, like Twitter followers, stars, forks, etc. -->
-</p>
-
-<!-- Introduction -->
-<p align="center">A passionate Competetive Coder from India 🇮🇳 </p>
-
-<!-- About Me -->
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  <em>💼 I'm currently a Project Trainee  at KLE Tech/CEVI(Centre of Excellence in Visual Intelligence)</em><br>
-  💡 My domains are, AI / Ml and Development. Also I'm a competetive coder. I have 1600+ rating in Codechef.<br>
-  🌱 Im currently exploring on 3D Point Cloud Deep Learning, i,e. Refinement of Point cloud. <br>
-  👯 If you are intrested in AI/ML projects you can consider me for collaborating. <br>
-  💬 Also If I'm a Anime lover (Weeb). So you can also have a discussion with me about your favourite Anime. Also your area of Interest in AI/ML domain.<br>
-  📫 You can contact me @ anihadagali.official@gmail.com<br>
-</p>
-
-<!-- Portfolio -->
-<h2 align="center">Project Highlights</h2>
-
-<p align="center">
-  <!-- Project 1 -->
-  <a href="Link to Project 1">
-    <img src="res/Screenshot 2023-09-14 at 10.37.49 PM.png" alt="AI Annotation Application" width="250" height="150" />
-  </a>
-  <!-- Project 2 -->
-  <a href="Link to Project 2">
-    <img src="res/Screenshot 2023-09-14 at 10.56.32 PM.png" alt="JavaFX Project" width="250" height="150" />
-  </a>
-  <!-- Add more projects as desired -->
-</p>
-
-<!-- Skills -->
-<h2 align="center">Skills</h2>
-
-<p align="center">
-  <!-- Badges for C/C++, Python, and Java -->
-  <img src="https://img.shields.io/badge/C/C++-blue" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Python-green" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
-
-  <img src="https://img.shields.io/badge/Pytorch-Red" alt="Pytorch" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Smart home Automation project<br>👯 I’m looking to collaborate on projects with tech stacks: Go, Flutter, or TS.<br>🤫 I'm also working on a secret project.<br>😎 Unpopular opinion, GO > JS (To all the Backend DEVs out there).<br>🌱 I’m currently learning : Bazel<br>💬 Ask me anything<br><br>
 
 
-<!-- Technologies -->
-<h2 align="center">Technologies</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ani_hadagali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aniruddha Hadagali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ani_hadagali) 
 
-<p align="center">
-  <!-- Technology icons with links or tooltips -->
-  <a href="#" title="Clion">
-    <img src="res/clion.svg" alt="Clion" width="40" height="40" />
-  </a>
-  <a href="#" title="Pytorch">
-    <img src="res/pytorch.png" alt="CSS3" width="80" height="40" />
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="res/mysql.png" alt="JavaScript" width="40" height="40" />
-  </a>
-  <!-- Add more technology icons with links or tooltips as needed -->
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anxxFURY&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anxxFURY&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anxxFURY&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=anxxFURY&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Let's Connect -->
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <!-- Add social media links or icons -->
-  <a href="https://twitter.com/ani_hadagali">
-    <img src="res/twitter-x-logo-42554.png" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/aniruddha-hadagali-851885218/">
-    <img src="res/8379992.jpg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <!-- Add more social media links as needed -->
-</p>
-
-<p align="center">⭐️ Show some ❤️ by starring some of my repositories! ⭐️</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
